@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "687198980000",
+    "firebase_url": "https://sleepwell2-54d97.firebaseio.com",
+    "project_id": "sleepwell2-54d97",
+    "storage_bucket": "sleepwell2-54d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687198980000:android:a3b064a8311f00bb",
+        "android_client_info": {
+          "package_name": "sleeptesting.skyv2.com.sleepwell2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "687198980000-t7esm084acbntrq1e7vrm04su8ou38g9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sleeptesting.skyv2.com.sleepwell2",
+            "certificate_hash": "a8832e8be04ff38b700a92a24e6a95869588c9f5"
+          }
+        },
+        {
+          "client_id": "687198980000-9iqivo85jlm6b4fdich4ko7m65nrskoa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcWD4CQT7jaZbUcODf8AE59NQpITem86s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "687198980000-9iqivo85jlm6b4fdich4ko7m65nrskoa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
